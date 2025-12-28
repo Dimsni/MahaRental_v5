@@ -7,19 +7,19 @@
 
     <fragment
         android:id="@+id/nav_transform"
-        android:name="com.maharental.maharental_v5.ui.transform.TransformFragment"
+        android:name="com.maharental.maharental_v5.ui.home.TransformFragment"
         android:label="@string/menu_transform"
         tools:layout="@layout/fragment_transform" />
 
     <fragment
         android:id="@+id/nav_reflow"
-        android:name="com.maharental.maharental_v5.ui.reflow.ReflowFragment"
+        android:name="com.maharental.maharental_v5.ui.history.ReflowFragment"
         android:label="@string/menu_reflow"
         tools:layout="@layout/fragment_reflow" />
 
     <fragment
         android:id="@+id/nav_slideshow"
-        android:name="com.maharental.maharental_v5.ui.slideshow.SlideshowFragment"
+        android:name="com.maharental.maharental_v5.ui.profile.SlideshowFragment"
         android:label="@string/menu_slideshow"
         tools:layout="@layout/fragment_slideshow" />
 

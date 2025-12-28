@@ -1,4 +1,4 @@
-package com.maharental.maharental_v5.ui.slideshow
+package com.maharental.maharental_v5.ui.profile
 
 import android.os.Bundle
 import android.view.LayoutInflater
